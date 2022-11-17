@@ -2,7 +2,7 @@
 
 # Hi, I'm Roshan 👋
 
-A passionate front-end developer from India!
+A passionate Java Programmer and a front-end developer from India!
 
 [comment]: <> (Coding profiles)
 
